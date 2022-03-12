@@ -1,0 +1,43 @@
+body{background-color: gray;}
+div.primera{
+width: 1200px;
+height: 250px;
+border:5px solid goldenrod;
+background-color: darkcyan;
+}
+div.primerad{
+    width: 1200px;
+    text-align: center;
+    margin-top: 100px;
+    color: goldenrod;
+}
+*.segunda{width: 1200px;
+    margin-top: 30px;
+height: 250px;
+border:3px solid;}
+div.segundap{margin: 10px 0px 0px 5px;
+width: 500px;
+height:100px ;
+border: 3px dashed;}
+div.segundas{
+    margin: 10px 0px 0px 5px;
+    width: 500px;
+    height:100px ;
+    border: 3px dashed;}
+    div.segundat{
+        position: absolute;
+        top: 310px;
+        left:600px;
+        width: 500px;
+        height:220px ;
+        border: 3px dashed;          
+    }
+
+    div.segundate{
+        margin: -220px 0px 0px 590px;
+        width: 500px;
+        height:220px ;
+        border: 3px dashed;
+          
+    }
+    
